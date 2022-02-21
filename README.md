@@ -1,4 +1,6 @@
-This is an example of a minimal Vite project where HMR doesn't appear to be working in Chrome.
+~This is an example of a minimal Vite project where HMR doesn't appear to be working in Chrome.~
+
+Edit: Got it working! Turns out you need to use `@vitejs/plugin-react` for HMR to work in React apps. Makes sense.
 
 ### Running the demo
 
